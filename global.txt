@@ -35,7 +35,7 @@ color: #747474;
 }
 
 .WindowBackground {
-color: rgba(34, 52, 60, 0.87);
+color: white;
 }
 .WindowOutline {
 color: #1EFAF9;
@@ -43,21 +43,21 @@ color: #1EFAF9;
 
 .OpaqueBackground {
 color: rgb(34, 52, 60);
-background-color: rgb(34, 52, 60);
+background-color: white;
 }
 .OpaqueBackground:hover {
-background-color: rgb(34, 52, 60);
+background-color: white;
 }
 
 .DivisionBar {
-color: #1EFAF9;
+color: white;
 }
 
 .ButtonOutline {
-color: #1EFAF9;
+color: white;
 }
 .TextButtonOutline {
-color: #49AFD9;
+color: white;
 }
 .TextButton:hover {
 background-color: rgb(227, 245, 252);
